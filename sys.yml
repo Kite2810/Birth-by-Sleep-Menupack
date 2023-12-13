@@ -1,0 +1,30 @@
+- id: 0x0AA1
+  en: '{:color #00F3FF80}Select a slot to save to.{:reset}'
+  sp: '{:color #00F3FF80}Selecciona una ranura donde guardar.{:reset}'
+  fr: '{:color #00F3FF80}Choisissez I`emplacement où sauvegarder.{:reset}'
+  gr: '{:color #00F3FF80}Wähle einen Speicherplatz aus.{:reset}'
+  it: '{:color #00F3FF80}Seleziona lo slot su cui salvare.{:reset}'
+- id: 0x0AA2
+  en: '{:color #00F3FF80}Select a slot to load from.{:reset}'
+  sp: '{:color #00F3FF80}Selecciona una ranura que cargar.{:reset}'
+  fr: '{:color #00F3FF80}Choisissez I`emplacement des données à charger.{:reset}'
+  gr: '{:color #00F3FF80}Wähle einen Spielstand aus.{:reset}'
+  it: '{:color #00F3FF80}Seleziona lo slot da caricare.{:reset}'
+- id: 0x3858
+  en: '{:color #00F3FF80}Save your game.{:reset}'
+  sp: '{:color #00F3FF80}Guarda tus progresos.{:reset}'
+  fr: '{:color #00F3FF80}Sauvegarder la partie.{:reset}'
+  gr: '{:color #00F3FF80}Speichere deinen Spielstand.{:reset}'
+  it: '{:color #00F3FF80}Salva i dati di gioco.{:reset}'
+- id: 0x3859
+  en: '{:color #00F3FF80}Return to the World Map.{:reset}'
+  sp: '{:color #00F3FF80}Regresa al mapa de los mundos.{:reset}'
+  fr: '{:color #00F3FF80}Retourner à la carte du monde.{:reset}'
+  gr: '{:color #00F3FF80}Kehre zur Weltkarte zurück.{:reset}'
+  it: '{:color #00F3FF80}Trasporta sul mappamondo.{:reset}'
+- id: 0x0A88
+  en: '{:color #00F3FF80}Return to the Title Screen.{:reset}'
+  sp: '{:color #00F3FF80}Vuelve a la pantalla del título.{:reset}'
+  fr: '{:color #00F3FF80}Retourner à I`écran-titre.{:reset}'
+  gr: '{:color #00F3FF80}Zurück zum Titelbildschirm.{:reset}'
+  it: '{:color #00F3FF80}Torna allo schermo del titolo.{:reset}'
